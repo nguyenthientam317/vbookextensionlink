@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "Rendo",
+    "description": "Just4Test"
+  },
+  "data": [
+        {
+        "name": "Vlog Truyện",
+        "author": "Rendo",
+        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/plugin.zip",
+        "version": 1,
+        "source": "https://vlogtruyen31.com/",
+        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/icon.png",
+        "description": "Đọc truyện trên trang vlogtruyen",
+        "type": "comic",
+        "locale": "vi_VN"
+        }
+    ]
+}
